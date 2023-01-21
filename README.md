@@ -13,13 +13,15 @@ git clone https://github.com/Kourva/HackerPython && cd HackerPython
 ```
 + copy
 ###### Copy the color scheme folder in sublime text config folder (Linux):
-###### Don't forget to replace `your_name`
+###### Don't forget to replace your home username (/home/?) with `username`
 ```bash
-cp -r HackerPython /home/your_name/.config/sublime-text/Packages/
+cp -r HackerPython /home/username/.config/sublime-text/Packages/
 ```
 # Activate
-###### **1**: Inside the sublime text press `shift + ctrl + p`
-###### **2**: Select `UI: Select Color Scheme`
-###### **3**: Select `hacker-python`
+###### step 1: Inside the sublime text press `shift + ctrl + p`
+###### step 2: Select `UI: Select Color Scheme`
+###### step 3: Select `hacker-python`
 
-> Hope you enjoy
+
+<br><br>
+> You can give me a star if you really liked it ;)
