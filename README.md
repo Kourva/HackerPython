@@ -6,7 +6,12 @@
 + For Python
 + Dark color scheme
 
-# Installation
+# Installation (Easier way):
+###### step 1: Open sublime text and press `shift + ctrl + p`
+###### step 2: Select `Package Control: Add Repository` and add `https://github.com/Kourva/HackerPython`
+###### step 3: Select `Pachake Control: Install package` and install `hacker-python`
+
+# Installation (Manual way)
 + clone
 ```bash
 git clone https://github.com/Kourva/HackerPython && cd HackerPython
