@@ -8,14 +8,14 @@
 
 # Installation (Easier way)
 ###### step 1: Open sublime text and press `shift + ctrl + p`
-###### step 2: Select `Package Control: Add Repository` and add `https://github.com/kozyol/HackerPython`
+###### step 2: Select `Package Control: Add Repository` and add `https://github.com/Kourva/HackerPython`
 ###### step 3: Select `Pachake Control: Install package` and install `HackerPython`
 ###### step 4: Select `UI: Select Color Scheme` and select hacker-python
 
 # Installation (Manual way)
 + clone
 ```bash
-git clone https://github.com/kozyol/HackerPython && cd HackerPython
+git clone https://github.com/Kourva/HackerPython && cd HackerPython
 ```
 + copy
 ###### Copy the color scheme folder in sublime text config folder (Linux):
